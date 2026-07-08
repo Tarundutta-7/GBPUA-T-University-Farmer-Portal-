@@ -157,7 +157,7 @@ function App() {
               transition: 'all 0.3s'
             }}
           >
-            Training Programs
+            Training Programs news
           </button>
 
           <button 

@@ -5,6 +5,7 @@ const CategoryCard = ({ category, onSelect }) => {
 
   return (
     <div 
+    
       onClick={() => onSelect && onSelect(category)}
       style={{
         border: '1px solid #ddd',
